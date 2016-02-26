@@ -199,6 +199,8 @@ function setupplayer() {
             'playsinline': 1,
             'rel': 0,
             'autoplay': false,
+            'iv_load_policy':3,
+
             wmode: 'transparent',
             allowFullScreen: false
 
